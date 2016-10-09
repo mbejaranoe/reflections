@@ -11,10 +11,15 @@ creation. There's no need to contain all the files in the working directory.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-I can use git diff --stage to see the changes, so you can save the logical change you want to make.
+I can use git diff --stage to see the changes, so you can save the logical change
+you want to make.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+They are very useful when yoy need to create more than one version of the program,
+or if you want to experiment with some other features. Branches allows to mñanage
+all the possibilities in order to optimize the effort and time used.
 
 How do the diagrams help you visualize the branch structure?
 
