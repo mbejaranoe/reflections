@@ -23,6 +23,9 @@ all the possibilities in order to optimize the effort and time used.
 
 How do the diagrams help you visualize the branch structure?
 
+They provide an effective method to see the commits hierarchy, and the reachability
+of the different branches.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
